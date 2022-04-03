@@ -4,7 +4,7 @@
 ## IP Address
 Lets grab some IPs, or DDoS some. Use these for those situations.
 
-- Grabify (grabify.link)
-- IP Logger (iplogger.org)
+- Grabify (www.grabify.link)
+- IP Logger (www.iplogger.org)
 - Spylink (www.spylink.net)
-- WebResolver (webresolver.nl)
+- WebResolver (www.webresolver.nl)
