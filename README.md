@@ -10,3 +10,8 @@ Lets grab some IPs, or DDoS some. Use these for those situations.
 - WebResolver (www.webresolver.nl)
 - FreeStresser.to (www.freestresser.to)
 - Quez Stresser (www.quez.in)
+
+## Skids
+I'm not a skid. I do Python, and I have my own stuff. But, I know skids will use this. As I said, "It's doomed to happen."
+
+Don't be mad at me LMAO.
