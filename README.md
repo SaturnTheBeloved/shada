@@ -9,3 +9,4 @@ Lets grab some IPs, or DDoS some. Use these for those situations.
 - Spylink (www.spylink.net)
 - WebResolver (www.webresolver.nl)
 - FreeStresser.to (www.freestresser.to)
+- Quez Stresser (www.quez.in)
