@@ -8,3 +8,4 @@ Lets grab some IPs, or DDoS some. Use these for those situations.
 - IP Logger (www.iplogger.org)
 - Spylink (www.spylink.net)
 - WebResolver (www.webresolver.nl)
+- FreeStresser.to (www.freestresser.to)
