@@ -1,6 +1,7 @@
 ## Saturns Doomsday Database
 > Note: THIS IS FOR ETHICAL HACKING AND PENTESTING. IT IS NOT MY RESPONSIBILITY IT ANYONE USES THIS/THESE THINGS WITH ILLEGAL INTENTIONS. FBI PLZ DONT HURT TwT
-> https://saturnthebeloved.github.io/shada/
+
+https://saturnthebeloved.github.io/shada/
 
 
 ## IP Address
